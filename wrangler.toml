@@ -1,4 +1,4 @@
-name = "dispoflare-wapik-v1"
+name = "dispoflare-wapik-v1-fix"
 
 # workers_dev = true
 main = "workers/index.ts"
